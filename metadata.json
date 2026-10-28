@@ -1,0 +1,6 @@
+{
+  "name": "Caja Menor - Viaja con Adri",
+  "description": "Sistema administrativo y contable para el control, registro, verificación de soportes, arqueo y reportes de caja menor para Viaja con Adri (Colombia).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
